@@ -1,0 +1,16 @@
+.button-card {
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    width: 15%;
+    padding: 10px 8px;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.card{
+    border: solid 1px #000;
+    border-radius: 15px;
+    padding: 10px 8px;
+    margin-top: 1rem;
+}
